@@ -3,7 +3,7 @@ This Hotel Management System is designed to computerize the management of a hote
 
 For the Graphical User Interface (GUI), the project uses Tkinter and PAGE (Python Automatic GUI Generator).
 
-Key Features:
+## Key Features:
 - Check-in and Check-out functionality for hotel customers
 - Room Booking and status management
 - Billing system based on room types and stay duration
