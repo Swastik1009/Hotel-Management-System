@@ -1,10 +1,10 @@
-# HOTEL-MANGEMENT-PROGRAM(PYTHON & GUI) 
-I have tried to computerize the HOTEL-MANGEMENT system through this project.
-This project gives information regarding the check-in, check-out and booking facilities of the customer.
-The project is written in Python 3 that uses OOPS concept i.e based on object and classes.
+Project Description
+This Hotel Management System is designed to computerize the management of a hotel, handling essential functionalities like customer check-in, check-out, and room booking. The program is written in Python 3, utilizing Object-Oriented Programming (OOP) principles to enhance modularity and maintainability.
 
-FOR THE GUI I HAVE USED TKINTER AND PAGE
+For the Graphical User Interface (GUI), the project uses Tkinter and PAGE (Python Automatic GUI Generator).
 
-THE NORMAL CODE IS NAMED AS MAIN.PY
-
-TO RUN THE GUI JUST EXECUTE MAINLY.PY
+Key Features:
+- Check-in and Check-out functionality for hotel customers
+- Room Booking and status management
+- Billing system based on room types and stay duration
+- Data management with the use of object classes
